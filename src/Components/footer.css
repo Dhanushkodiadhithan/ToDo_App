@@ -1,0 +1,13 @@
+.foot{
+    width: 100%;
+    height: 75px;
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    font-weight: bolder;
+    font-size: x-large;
+}

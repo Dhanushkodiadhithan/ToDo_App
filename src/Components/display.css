@@ -1,0 +1,19 @@
+.hiddenul{
+    padding: 30px;
+    visibility: hidden;
+    width: 500px;
+    margin: auto;
+    margin-top: 40px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.247);
+    border-radius: 10px;
+}
+.visibleul{
+    padding: 30px;
+    visibility: visible;
+    width: 500px;
+    margin: auto;
+    margin-top: 40px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.247);
+    border-radius: 10px;
+}
+
